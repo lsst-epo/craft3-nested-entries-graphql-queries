@@ -1,0 +1,31 @@
+{
+    "name": "rosas/nested-entries-graphql-queries",
+    "description": "Perform queries that match on entries-as-fields and return the whole entry.",
+    "type": "craft-plugin",
+    "keywords": ["graphql", "entries", "entry-as-field"],
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Eric Rosas",
+        "homepage": "https://github.com/lsst-epo/craft3-nested-entries-graphql-queries"
+      }
+    ],
+    "support": {
+      "email": "erosas@lsst.org",
+      "issues": "https://github.com/lsst-epo/craft3-nested-entries-graphql-queries/issues?state=open",
+      "source": "https://github.com/lsst-epo/craft3-nested-entries-graphql-queries",
+      "docs": "https://github.com/lsst-epo/craft3-nested-entries-graphql-queries/blob/master/README.md"
+    },
+    "require": {
+      "craftcms/cms": "^3.1.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "rosas\\": "src/"
+      }
+    },
+    "extra": {
+      "name": "Nested Entries GraphQL Queries",
+      "handle": "nested-entries-graphql-queries"
+    }
+  }
