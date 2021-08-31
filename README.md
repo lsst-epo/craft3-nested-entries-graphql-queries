@@ -58,4 +58,4 @@ Of course "LIKE" searches are also supported:
 
 ## Collaboration
 
-Pull requests welcome! If you find a bug open up an issue. If you have an idea, but don't know how to implement it then open up an issue and describe what you trying to accomplish and, if possible, guidance will be provided.
+Pull requests welcome! If you find a bug open up an issue. If you have an idea, but don't know how to implement it then open up a discussion and describe what you trying to accomplish and, if possible, guidance will be provided.
