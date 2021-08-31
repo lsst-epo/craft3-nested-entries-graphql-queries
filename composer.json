@@ -17,7 +17,7 @@
       "docs": "https://github.com/lsst-epo/craft3-nested-entries-graphql-queries/blob/master/README.md"
     },
     "require": {
-      "craftcms/cms": "^3.1.0"
+      "craftcms/cms": "^3.0.0"
     },
     "autoload": {
       "psr-4": {
